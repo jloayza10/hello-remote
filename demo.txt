@@ -1,1 +1,2 @@
 Adding some text to demo from github.com
+Adding text from local machine, Visual Studio Code
